@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ### Hi there 👋
 
 ### I'm a Computer Science and Business student with a background in Design. 
