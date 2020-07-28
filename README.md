@@ -1,5 +1,5 @@
 ![Favourite Wallpaper](https://justinzhang.imfast.io/MS2.jpg)
-> Currently loving the new Microsoft UX Films
+> Loving the new Microsoft UX Films
 
 ### Hi there 👋
 
