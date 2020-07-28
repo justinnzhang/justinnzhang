@@ -1,4 +1,5 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Favourite Wallpaper](https://justinzhang.imfast.io/MS2.jpg)
+> Currently loving the new Microsoft UX Films
 
 ### Hi there 👋
 
