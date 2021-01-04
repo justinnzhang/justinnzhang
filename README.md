@@ -1,6 +1,3 @@
-![Favourite Wallpaper](https://justinzhang.imfast.io/MS2.jpg)
-> Loving the new Microsoft UX Films
-
 ## Hi there 👋
 
 ### I'm a Computer Science and Business student with a background in Design & Videography. 
