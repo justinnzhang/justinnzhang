@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### I'm a Computer Science and Business student with a background in Design & Videography. 
-__Currently building__ [CaseCom](https://casecom.app) - The world's first online platform for Case Competitions
+### My name is Justin Zhang, a Computer Science and Business student with a background in Design & Videography. 
+I'm the Co-Founder @ [CaseCom](https://casecom.app) and Co-Director @ [Hack Western](https://hackwestern.com)
 
 All my past work can be found on my [website](https://justinzhang.ca/) 😊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinnzhang&count_private=true)
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinnzhang&count_private=true)
