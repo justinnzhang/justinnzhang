@@ -4,3 +4,5 @@
 __Currently building__ [CaseCom](https://casecom.app) - The world's first online platform for Case Competitions
 
 All my past work can be found on my [website](https://justinzhang.ca/) 😊
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinnzhang&count_private=true)
