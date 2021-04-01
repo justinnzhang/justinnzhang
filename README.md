@@ -1,4 +1,4 @@
-# Welcome to my GitHub Page 👋
+# Welcome to my GitHub 👋
 
 ### My name is Justin Zhang, a Computer Science and Business student with a background in Design & Videography. 
 I'm the Co-Founder @ [CaseCom](https://casecom.app) and Co-Director @ [Hack Western](https://hackwestern.com)
