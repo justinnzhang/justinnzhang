@@ -1,4 +1,4 @@
-# Welcome to my GitHub 👋
+# Hello! 👋
 
 ### My name is Justin Zhang, a Computer Science and Business student with a background in Design & Videography. 
 I'm the Co-Founder @ [CaseCom](https://casecom.app), Co-Director @ [Hack Western](https://hackwestern.com), and a Front-End SWE intern at Shopify!
