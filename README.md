@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ### My name is Justin Zhang, a Canadian Computer Science and Business graduate with a background in Design & Videography. 
-I'll be starting as a Software Engineer at Realtor.com soon in their Austin office.
+I'm currently a Software Engineer at Realtor.com based in their Austin office!
 
 Previously, I've interned at **Meta** as a Technical PM, **Shopify** as a Software Engineer, and **The Royal Bank of Canada** as a Technical Systems Analyst!
 
